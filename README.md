@@ -1,5 +1,12 @@
-# Devops Project: video-converter
-Converting mp4 videos to mp3 in a microservices architecture.
+<h1> DevOps Project - Video to Audio Python Microservices App on Kubernetes (AWS EKS)</h1>
+
+<h3>Watch Youtube video demo below</h3>
+
+[![Video Thumbnail](https://img.youtube.com/vi/7rKQtewiJCw/0.jpg)](https://www.youtube.com/watch?v=7rKQtewiJCw)
+
+Welcome to my DevOps project vlog! I'm [Rafly Dwi Priyono](https://www.linkedin.com/in/raflydwipriyono/), and in this video, I will show you how to deploy a Python-based microservice application on AWS Elastic Kubernetes Service (EKS). 
+
+The application comprises four major microservices: auth-server, converter-module, database-server (PostgreSQL and MongoDB), and notification-server.
 
 ## Architecture
 
